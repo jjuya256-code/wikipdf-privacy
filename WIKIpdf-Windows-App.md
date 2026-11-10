@@ -6,6 +6,10 @@
 
 **Developer / publisher:** jjuya · **Platform:** Windows
 
+**[Visit the WIKIpdf website](https://wikipdf-preview-20261105.jjuya256.chatgpt.site/)** — product introduction and usage information. The website's Windows download button links to the same Microsoft Store app.
+
+**[Official Microsoft Store share link](https://apps.microsoft.com/detail/9nfqb25371g9?ocid=webpdpshare)**
+
 ## Built for technical documents
 
 Finding a component or specification across many PDF drawings and equipment manuals can be slow. WIKIpdf is a Windows desktop app for viewing and working with PDFs, with optional AI-assisted document chat and Wiki generation to organize reusable knowledge.
@@ -41,6 +45,6 @@ What is hardest to find in your current document collection: equipment specs, tr
 - **앱 내 구매 항목**이 있으며, AI 서비스에는 별도의 계정 및 제공자 이용 조건이 적용될 수 있습니다.
 - 실제 지원 기능과 시스템 요구사항은 스토어의 최신 설명을 확인해 주세요.
 
-**[WIKIpdf 설치 페이지](https://apps.microsoft.com/detail/9nfqb25371g9?cid=wikipdf_github_20261110)**
+**[WIKIpdf 홈페이지](https://wikipdf-preview-20261105.jjuya256.chatgpt.site/)** · **[WIKIpdf 설치 페이지](https://apps.microsoft.com/detail/9nfqb25371g9?cid=wikipdf_github_20261110)**
 
 *Publisher's promotional information, posted by the WIKIpdf development/marketing team. Not a third-party review or endorsement.*
